@@ -16,4 +16,6 @@ format:
     css: styles.css
     toc: true
 
+extensions:
+  - mermaid
 
