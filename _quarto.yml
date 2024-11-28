@@ -1,10 +1,19 @@
 project:
-  title: "My Quarto Site"
-  author: "Your Name"
-  theme: [journals]
+  type: website
 
-nav:
-  - Home: index.qmd
-  - About: about.qmd
-  - Contact: contact.qmd
+website:
+  title: "Website_Quarto1"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
 
