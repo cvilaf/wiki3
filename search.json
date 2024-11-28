@@ -2,16 +2,16 @@
   {
     "objectID": "my-quarto-site.html",
     "href": "my-quarto-site.html",
-    "title": "Pájaros",
+    "title": "Animal example",
     "section": "",
-    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nThis is an important note."
+    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando\n\n\n\nclassDiagram note “From Duck till Zebra” Animal &lt;|– Duck note for Duck “can flyswimdivehelp in debugging” Animal &lt;|– Fish Animal &lt;|– Zebra Animal : +int age Animal : +String gender Animal: +isMammal() Animal: +mate() class Duck{ +String beakColor +swim() +quack() } class Fish{ -int sizeInFeet -canEat() } class Zebra{ +bool is_wild +run() }"
   },
   {
     "objectID": "my-quarto-site.html#pájaros-locales",
     "href": "my-quarto-site.html#pájaros-locales",
-    "title": "Pájaros",
+    "title": "Animal example",
     "section": "",
-    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nThis is an important note."
+    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando\n\n\n\nclassDiagram note “From Duck till Zebra” Animal &lt;|– Duck note for Duck “can flyswimdivehelp in debugging” Animal &lt;|– Fish Animal &lt;|– Zebra Animal : +int age Animal : +String gender Animal: +isMammal() Animal: +mate() class Duck{ +String beakColor +swim() +quack() } class Fish{ -int sizeInFeet -canEat() } class Zebra{ +bool is_wild +run() }"
   },
   {
     "objectID": "about.html",
