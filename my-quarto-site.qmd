@@ -1,10 +1,12 @@
 ---
-title: "my-quarto-site"
+title: "Pájaros"
 ---
 
-## Quarto
+## Pájaros locales
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Imágenes de pájaros locales.
+
+![Caption](Orenetes-Sant-Quirze-e1428942933854.webp)
 
 ::: callout
 This is an important note.
