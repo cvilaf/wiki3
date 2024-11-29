@@ -2,16 +2,16 @@
   {
     "objectID": "my-quarto-site.html",
     "href": "my-quarto-site.html",
-    "title": "Animal example",
+    "title": "Pájaros",
     "section": "",
-    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando\n\n\n\n``` mermaid graph LR A[Client] –&gt; B[Load Balancer] B –&gt; C[Server1] B –&gt; D[Server2]\nclassDiagram note “From Duck till Zebra” Animal &lt;|– Duck note for Duck “can flyswimdivehelp in debugging” Animal &lt;|– Fish Animal &lt;|– Zebra Animal : +int age Animal : +String gender Animal: +isMammal() Animal: +mate() class Duck{ +String beakColor +swim() +quack() } class Fish{ -int sizeInFeet -canEat() } class Zebra{ +bool is_wild +run() }"
+    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando"
   },
   {
     "objectID": "my-quarto-site.html#pájaros-locales",
     "href": "my-quarto-site.html#pájaros-locales",
-    "title": "Animal example",
+    "title": "Pájaros",
     "section": "",
-    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando\n\n\n\n``` mermaid graph LR A[Client] –&gt; B[Load Balancer] B –&gt; C[Server1] B –&gt; D[Server2]\nclassDiagram note “From Duck till Zebra” Animal &lt;|– Duck note for Duck “can flyswimdivehelp in debugging” Animal &lt;|– Fish Animal &lt;|– Zebra Animal : +int age Animal : +String gender Animal: +isMammal() Animal: +mate() class Duck{ +String beakColor +swim() +quack() } class Fish{ -int sizeInFeet -canEat() } class Zebra{ +bool is_wild +run() }"
+    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando"
   },
   {
     "objectID": "about.html",
