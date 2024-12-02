@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About\nThis is the about page."
-  },
-  {
     "objectID": "my-quarto-site.html",
     "href": "my-quarto-site.html",
     "title": "Pájaros",
@@ -14,10 +7,17 @@
     "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando"
   },
   {
-    "objectID": "my-quarto-site.html#pájaros-locales..",
-    "href": "my-quarto-site.html#pájaros-locales..",
+    "objectID": "my-quarto-site.html#pájaros-locales",
+    "href": "my-quarto-site.html#pájaros-locales",
     "title": "Pájaros",
     "section": "",
     "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nThis is the about page."
   }
 ]
