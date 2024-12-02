@@ -4,14 +4,14 @@
     "href": "my-quarto-site.html",
     "title": "Pájaros",
     "section": "",
-    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando\n\n\n\ngraph LR\n    A[Client] --&gt; B[Load Balancer]\n    B --&gt; C[Server1]\n    B --&gt; D[Server2]"
+    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando"
   },
   {
     "objectID": "my-quarto-site.html#pájaros-locales",
     "href": "my-quarto-site.html#pájaros-locales",
     "title": "Pájaros",
     "section": "",
-    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando\n\n\n\ngraph LR\n    A[Client] --&gt; B[Load Balancer]\n    B --&gt; C[Server1]\n    B --&gt; D[Server2]"
+    "text": "Imágenes de pájaros locales.\n\n\n\nCaption\n\n\n\n\n\n\n\n\nGolondrina volando"
   },
   {
     "objectID": "about.html",
